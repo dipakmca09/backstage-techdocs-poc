@@ -1,4 +1,4 @@
-# Payments Service
+# Payments Service I am Dipak
 
 The **Payments Service** handles all payment processing for the platform.
 
@@ -6,7 +6,7 @@ The **Payments Service** handles all payment processing for the platform.
 
 This service integrates with Stripe and PayPal to process transactions securely.
 
-## Architecture
+## Architecture I am Madhu
 
 The service runs as a stateless Node.js API behind a load balancer.
 
@@ -14,7 +14,7 @@ The service runs as a stateless Node.js API behind a load balancer.
 
 - **Payment Gateway**: Routes payments to the correct provider
 - **Webhook Handler**: Processes async payment events
-- **Reconciliation Job**: Daily job to reconcile transactions
+- **Reconciliation Job**: Daily job to reconcile transactions, I am Kanchana
 
 ## API Reference
 
