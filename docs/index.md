@@ -1,4 +1,4 @@
-# Payments Service
+# Payments Service I am Dipak
 
 The **Payments Service** handles all payment processing for the platform.
 
@@ -6,7 +6,7 @@ The **Payments Service** handles all payment processing for the platform.
 
 This service integrates with Stripe and PayPal to process transactions securely.
 
-## Architecture
+## Architecture, I am Payal
 
 The service runs as a stateless Node.js API behind a load balancer.
 
