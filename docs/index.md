@@ -1,4 +1,4 @@
-# Payments Service
+# Payments Service I am Madhu
 
 The **Payments Service** handles all payment processing for the platform.
 
@@ -6,11 +6,11 @@ The **Payments Service** handles all payment processing for the platform.
 
 This service integrates with Stripe and PayPal to process transactions securely.
 
-## Architecture
+## Architecture I am Kanchana I am Umapati
 
 The service runs as a stateless Node.js API behind a load balancer.
 
-### Key Components
+### Key Components I am Madhu
 
 - **Payment Gateway**: Routes payments to the correct provider
 - **Webhook Handler**: Processes async payment events
